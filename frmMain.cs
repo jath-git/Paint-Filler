@@ -6,10 +6,7 @@ using Ambro.Drawing;
 
 namespace FillShape
 {
-    /* Jathurshan Theivikaran
-     * December 13, 2019
-     * This program colours in empty spaces of a picture
-     */
+    // this program colours in empty spaces of a picture
 
     //sample text files are in the folder of the solution
     public partial class frmMain : Form
